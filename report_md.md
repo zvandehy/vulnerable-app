@@ -226,7 +226,7 @@ Content Security Policy (CSP) is an added layer of security that helps to detect
   * Parameter: ``
   * Attack: ``
   * Evidence: ``
-* URL: http://localhost:5050/xxe_uploader
+* URL: http://localhost:5050/yaml
   * Method: `GET`
   * Parameter: ``
   * Attack: ``
@@ -470,7 +470,7 @@ The web/application server is leaking version information via the "Server" HTTP 
   * Parameter: ``
   * Attack: ``
   * Evidence: `TornadoServer/4.5.1`
-* URL: http://localhost:5050/xxe_uploader
+* URL: http://localhost:5050/yaml
   * Method: `GET`
   * Parameter: ``
   * Attack: ``
